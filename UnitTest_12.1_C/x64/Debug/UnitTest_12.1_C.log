@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest_12.1_C.cpp
+C:\Users\VITUK\source\repos\lab_12.1_C\lab_12.1_C\lab_12.1_C.cpp(11,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest_12.1_C.cpp')
+  
+     Creating library C:\Users\VITUK\source\repos\lab_12.1_C\x64\Debug\UnitTest_12.1_C.lib and object C:\Users\VITUK\source\repos\lab_12.1_C\x64\Debug\UnitTest_12.1_C.exp
+  UnitTest_12.1_C.vcxproj -> C:\Users\VITUK\source\repos\lab_12.1_C\x64\Debug\UnitTest_12.1_C.dll
